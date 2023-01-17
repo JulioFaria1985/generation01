@@ -1,4 +1,4 @@
-package LacosCondicionais;
+/*package LacosCondicionais;
 
 import java.util.Scanner;
 
@@ -19,4 +19,4 @@ public class Exercicio4 {
                     senao  {
                         escreva("A pessoa n„o est· apta a votar")
     }
-}
+}*/

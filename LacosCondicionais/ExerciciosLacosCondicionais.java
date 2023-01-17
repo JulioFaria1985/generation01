@@ -1,4 +1,4 @@
-package LacosCondicionais;
+/*package LacosCondicionais;
 
 import java.util.Scanner;
 
@@ -86,4 +86,4 @@ public class Exercicio1 {
                         System.out.println("\n--Produto:Suco de Laranja");
                         System.out.println("\n--Valor Total: " + (suco * quant) + " Reais");
                     }
-                }
+                }*/
